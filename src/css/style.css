@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: "Istok Web", sans-serif;
+    background-color: #F9E8E8;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    align-items: end;
+    justify-content: end;
+    margin-left: -40px;
+    margin-top: 50px;
+}
+
+header button {
+    width: 164px;
+    height: 46px;
+    border-radius: 15px;
+    border: none;
+    background-color: #EC8A90;
+    color: white;
+}
+
+main button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    margin-top: 40px;
+}
+
+.main-container p {
+    width: 295px;
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+}
+
+.main-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
