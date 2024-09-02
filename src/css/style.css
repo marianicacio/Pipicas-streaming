@@ -27,6 +27,13 @@ main button{
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 247px;
+    height: 65px;
+    border-radius: 15px;
+    color: white;
+    background-color: #EC8A90;
+    border: none;
+    font-size: 24px;
 }
 
 .main-container {
