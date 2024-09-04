@@ -23,6 +23,12 @@ header button {
     color: white;
 }
 
+header button:hover {
+    background-color: #ffadd6;
+    transition: 1s;
+    border-radius: 50px;
+}
+
 main button{
     display: flex;
     justify-content: center;
@@ -67,4 +73,10 @@ main button{
     justify-content: center;
     align-items: center;
     margin-top: 200px;
+}
+
+.main-button button:hover {
+    background-color: #ffadd6;
+    transition: 1s;
+    border-radius: 50px;
 }
